@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chamila Sewmini</h1>
 <h3 align="center">A passionate backend developer from Srilanka</h3>
 
-- 🔭 I’m currently working on **MERN Stack Project**
+- 🔭 I’m currently working on **Spring Boot Project**
 
 - 📫 How to reach me **chamilasewmini2@gmail.com**
 
